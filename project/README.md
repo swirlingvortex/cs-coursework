@@ -1,0 +1,1 @@
+This project has a simple C program that prints a person using the $USER environment variable. It is a basic example of C programming fundamentals, using environment variables in c, organize source and build directories, and automating compilation with scripts.
